@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 77)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns:x="&ns_extend;" xmlns:i="&ns_ai;"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="1118" height="874" viewBox="0 0 1118 874" overflow="visible" enable-background="new 0 0 1118 874" xml:space="preserve">
+	<style type="text/css">
+	<![CDATA[
+@font-face{font-family:'Verdana';src:url("data:;base64,\
+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\
+/t4AEP/cAAEAAQAW")}
+	]]>
+	</style>
+	<g id="Layer_1_2_">
+		<path fill="none" stroke="#515151" d="M19.624,798.508h720"/>
+		<path fill="none" stroke="#515151" d="M711.089,676.583l17.596-3.103"/>
+		<path fill="none" stroke="#515151" d="M679.535,558.319l16.667-6.065"/>
+		<path fill="none" stroke="#515151" d="M627.783,447.387l15.378-8.879"/>
+		<path fill="none" stroke="#515151" d="M557.519,347.159l13.656-11.458"/>
+		<path fill="none" stroke="#515151" d="M470.972,260.612l11.459-13.656"/>
+		<path fill="none" stroke="#515151" d="M370.746,190.345l8.877-15.375"/>
+		<path fill="none" stroke="#515151" d="M259.812,138.599l6.067-16.669"/>
+		<path fill="none" stroke="#515151" d="M141.548,107.039l3.102-17.593"/>
+		<path fill="none" stroke="#515151" d="M19.624,798.508v-720"/>
+		<path fill="none" stroke="#515151" d="M19.624,78.508c397.969,0,720,322.031,720,720"/>
+		<path fill="none" stroke="#515151" d="M796.585,798.508V15.772"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M19.624,798.508l716.427-71.643"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M19.624,798.508l706.018-141.204"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M19.624,798.508l689.635-206.89"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M19.624,798.508l668.503-267.401"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M19.624,798.508l643.988-321.995"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M19.624,798.508l576-432"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M19.624,798.508L528.74,289.391"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M736.051,726.865h60.534"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M725.642,657.304h70.943"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M709.259,591.618h87.326"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M688.127,531.106h108.458"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M663.611,476.513h132.974"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M595.624,366.508h200.961"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M528.74,289.391h267.845"/>
+		<text transform="matrix(1 0 0 1 806.5352 738.793)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">10% (5.71</tspan><tspan x="195.275" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="214.787" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<text transform="matrix(1 0 0 1 806.5352 669.2314)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">20% (11.31</tspan><tspan x="218.162" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="237.674" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<text transform="matrix(1 0 0 1 806.5352 603.5459)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">30% (16.70</tspan><tspan x="218.162" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="237.674" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<text transform="matrix(1 0 0 1 806.5352 543.0342)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">40% (21.80</tspan><tspan x="218.162" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="237.674" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<text transform="matrix(1 0 0 1 806.5352 488.4409)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">50% (26.57</tspan><tspan x="218.162" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="237.674" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<text transform="matrix(1 0 0 1 806.5352 378.4355)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">75% (36.87</tspan><tspan x="218.162" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="237.674" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<text transform="matrix(1 0 0 1 806.5352 301.3184)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">100% (45</tspan><tspan x="182.18" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="201.691" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M19.624,798.508l399.384-599.076"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M419.008,199.432h377.577"/>
+		<text transform="matrix(1 0 0 1 806.5352 213.769)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">150% (56.31</tspan><tspan x="241.049" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="260.561" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M19.624,798.508l321.994-643.987"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M341.618,154.521h454.967"/>
+		<text transform="matrix(1 0 0 1 806.5352 168.1689)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">200% (63.43</tspan><tspan x="241.049" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="260.561" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M19.624,798.508l227.685-683.052"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M247.308,115.456h549.277"/>
+		<text transform="matrix(1 0 0 1 806.5352 126.9199)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">300% (71.57</tspan><tspan x="241.049" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="260.561" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M19.624,798.508L160.827,92.49"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M160.827,92.49l578.796-0.007V75.322l56.962,0.007"/>
+		<text transform="matrix(1 0 0 1 806.5352 85.0107)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">500% </tspan><tspan x="120.059" y="-1.5" fill="#BB000D" font-family="'Verdana'" font-size="36">(</tspan><tspan x="136.406" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">78.69</tspan><tspan x="241.049" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="260.561" y="-1.5" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M19.624,798.508L91.266,82.081"/>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M91.266,82.081H703v-53.21h93.585"/>
+		<text transform="matrix(1 0 0 1 806.5352 42.6279)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">1000% </tspan><tspan x="142.945" y="-1" fill="#BB000D" font-family="'Verdana'" font-size="36">(</tspan><tspan x="159.293" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">84.29</tspan><tspan x="263.936" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="283.447" y="-1" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<path fill="none" stroke="#BB0000" stroke-width="2" d="M796.585,798.508h-56.962"/>
+		<text transform="matrix(1 0 0 1 806.5352 810.4355)"><tspan x="0" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">0% </tspan><tspan x="74.285" y="-1.5" fill="#BB000D" font-family="'Verdana'" font-size="36">(</tspan><tspan x="90.633" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">0</tspan><tspan x="113.52" y="0" fill="#BB000D" font-family="'Verdana'" font-size="36">°</tspan><tspan x="133.031" y="-1.5" fill="#BB000D" font-family="'Verdana'" font-size="36">)</tspan></text>
+		<text transform="matrix(0.9874 -0.1582 0.1582 0.9874 668.2124 694.6221)"><tspan x="0" y="0" fill="#707070" font-family="'Verdana'" font-size="21">10</tspan><tspan x="26.701" y="0" fill="#707070" font-family="'Verdana'" font-size="21">°</tspan></text>
+		<text transform="matrix(0.9449 -0.3272 0.3272 0.9449 640.437 583.5303)"><tspan x="0" y="0" fill="#707070" font-family="'Verdana'" font-size="21.0011">20</tspan><tspan x="26.702" y="0.001" fill="#707070" font-family="'Verdana'" font-size="21.0011">°</tspan></text>
+		<text transform="matrix(0.8738 -0.4863 0.4863 0.8738 593.6572 479.0024)"><tspan x="0" y="0" fill="#707070" font-family="'Verdana'" font-size="21">30</tspan><tspan x="26.701" y="0" fill="#707070" font-family="'Verdana'" font-size="21">°</tspan></text>
+		<text transform="matrix(0.776 -0.6307 0.6307 0.776 529.4043 384.2217)"><tspan x="0" y="0" fill="#707070" font-family="'Verdana'" font-size="21">40</tspan><tspan x="26.701" y="0" fill="#707070" font-family="'Verdana'" font-size="21">°</tspan></text>
+		<text transform="matrix(0.6547 -0.7558 0.7558 0.6547 449.7192 301.9922)"><tspan x="0" y="0" fill="#707070" font-family="'Verdana'" font-size="21.0014">50</tspan><tspan x="26.703" y="0" fill="#707070" font-family="'Verdana'" font-size="21.0014">°</tspan></text>
+		<text transform="matrix(0.5135 -0.8581 0.8581 0.5135 357.0015 234.7944)"><tspan x="0" y="0" fill="#707070" font-family="'Verdana'" font-size="21">60</tspan><tspan x="26.701" y="0" fill="#707070" font-family="'Verdana'" font-size="21">°</tspan></text>
+		<text transform="matrix(0.3568 -0.9342 0.9342 0.3568 253.9922 184.7539)"><tspan x="0" y="0" fill="#707070" font-family="'Verdana'" font-size="21">70</tspan><tspan x="26.701" y="0" fill="#707070" font-family="'Verdana'" font-size="21">°</tspan></text>
+		<text transform="matrix(0.1908 -1.0396 0.9836 0.1805 137.8071 154.5771)"><tspan x="0" y="0" fill="#707070" font-family="'Verdana'" font-size="21">80</tspan><tspan x="26.701" y="0" fill="#707070" font-family="'Verdana'" font-size="21">°</tspan></text>
+		<text transform="matrix(1 0 0 1 689.6914 793.5508)"><tspan x="0" y="0" fill="#707070" font-family="'Verdana'" font-size="21">0</tspan><tspan x="13.351" y="0" fill="#707070" font-family="'Verdana'" font-size="21">°</tspan></text>
+		<text transform="matrix(0 -1 1 0 43.6235 141.7979)"><tspan x="0" y="0" fill="#707070" font-family="'Verdana'" font-size="21">90</tspan><tspan x="26.701" y="0" fill="#707070" font-family="'Verdana'" font-size="21">°</tspan></text>
+		<path fill="none" d="M1118,874H0V0h1118V874z"/>
+		<path fill="none" stroke="#707070" stroke-width="4" d="M235.961,846h44.201"/>
+		<text transform="matrix(1 0 0 1 292.4775 855.8662)"><tspan x="0" y="0" fill="#707070" font-family="'Verdana'" font-size="36">angle</tspan></text>
+		<path fill="none" stroke="#BB0000" stroke-width="4" d="M19.624,846h44.201"/>
+		<text transform="matrix(1 0 0 1 76.1401 855.8662)"><tspan x="0" y="0" fill="#BB0000" font-family="'Verdana'" font-size="36">grade</tspan></text>
+	</g>
+</svg>

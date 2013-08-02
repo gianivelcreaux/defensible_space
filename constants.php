@@ -1,0 +1,16 @@
+<?php
+// THESE ARE CONSTANTS THAT ARE USED THROUGHOUT THE SITE
+
+// THIS IS THE BASEREF CHANGE IT TO THE ROOT DIRECTORY OF YOUR SITE
+$baseref='http://localhost/wildfires/';
+
+// THIS IS THE EMAIL ADDRESS ALL FORMS SEND TO. CHANGE IT TO THE DESTINATION EMAIL ADDRESS FOR YOUR FIRE COMPANY
+$fire_email='smooney@cityofmillvalley.org';
+
+// THIS IS THE PHONE NUMBER FOR YOUR FIRE DEPARTMENT
+$fire_phone='(415) 555-5555';
+
+$logo_img='images/mvfd_logo.png';
+
+
+?>
