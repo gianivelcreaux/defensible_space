@@ -2,7 +2,7 @@
 // THESE ARE CONSTANTS THAT ARE USED THROUGHOUT THE SITE
 
 // THIS IS THE BASEREF CHANGE IT TO THE ROOT DIRECTORY OF YOUR SITE
-$baseref='http://localhost/wildfires/';
+$baseref='http://localhost/defensible_Space/';
 
 // THIS IS THE EMAIL ADDRESS ALL FORMS SEND TO. CHANGE IT TO THE DESTINATION EMAIL ADDRESS FOR YOUR FIRE COMPANY
 $fire_email='smooney@cityofmillvalley.org';
